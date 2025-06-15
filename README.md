@@ -110,17 +110,10 @@ This bot uses the [Binance Futures Testnet](https://testnet.binancefuture.com/) 
 
 ---
 
-## 📌 TODO
-
-* [ ] Add support for TWAP/Grid strategy
-* [ ] Add basic frontend (Flask/Tkinter)
-* [ ] Add Telegram integration for order notifications
-
----
 
 ## 🧑‍💻 Author
 
-**Rishi Dhanesh Vejani**
+**Rishi Vejani**
 
 ---
 
