@@ -7,7 +7,6 @@ A Python-based trading bot that connects to the Binance Futures Testnet API to p
 * ✅ Place **Market Orders**
 * ✅ Place **Limit Orders**
 * ✅ Place **Stop-Market Orders**
-* ✅ Place **OCO (One-Cancels-the-Other)** Orders (Spot only)
 * ✅ Log order activity in a structured log file
 * ✅ CLI menu-based interface
 
