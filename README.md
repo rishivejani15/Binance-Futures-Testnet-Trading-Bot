@@ -82,7 +82,6 @@ Welcome to Binance Bot
 1. Market Order
 2. Limit Order
 3. Stop-Market
-4. OCO Order
 Enter your choice: ...
 ```
 
@@ -93,7 +92,6 @@ Enter your choice: ...
 * **Market**: Execute immediately at current market price.
 * **Limit**: Set a price at which you want to buy/sell.
 * **Stop-Market**: Executes a market order when stop price is hit.
-* **OCO (Spot Only)**: Combines a limit order and a stop-limit order.
 
 ---
 
