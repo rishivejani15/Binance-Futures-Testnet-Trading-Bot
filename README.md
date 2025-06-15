@@ -17,7 +17,7 @@ A Python-based trading bot that connects to the Binance Futures Testnet API to p
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/binance-futures-bot.git
+git clone https://github.com/rishivejani15/binance-futures-bot.git
 cd binance-futures-bot
 ```
 
